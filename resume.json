@@ -5,12 +5,12 @@
     "picture": "https://avatars1.githubusercontent.com/u/5545565?v=3&s=466",
     "email": "managam.silalahi@gmail.com",
     "phone": "(+62) 812 6338 7707",
-    "website": "http://richardhendricks.com",
+    "website": "http://managam.github.io",
     "summary": "Managam is an indie Software Engineer currently focusing on Software Development. I have over 2 years of programming experiences, and is experienced in a wide variety of languages including Swift, Objective-C, NodeJS, Javascript. Specialties: Software Development, iOS Development, Swift, Objective-C, NodeJS, Javascript.",
     "location": {
-      "address": "Jl. Pangeran Antasari Gg. Cempaka 3.",
+      "address": "Jl. Pangeran Antasari Gg. Cempaka 3",
       "postalCode": "12150",
-      "city": "South Jakarta",
+      "city": "Jakarta",
       "countryCode": "ID",
       "region": "Jakarta, Greater Area"
     },
@@ -37,8 +37,8 @@
       "company": "YesBoss",
       "position": "Software Engineer",
       "website": "https://yesbossnow.com",
-      "startDate": "August 2016",
-      "endDate": "Now",
+      "startDate": "2016-08-01",
+      "endDate": "",
       "summary": "YesBoss is your personal virtual assistant for all your demands. YesBoss is an SMS-based personal virtual assistant which eases your daily life and saves your time.",
       "highlights": [
         "Develop Core Services for YesBoss Technology environment",
@@ -52,19 +52,23 @@
       "company": "Morra",
       "position": "iOS Developer",
       "website": "http://hellomorra.com/",
-      "startDate": "March 2016",
-      "endDate": "July 2016",
+      "startDate": "2016-03-21",
+      "endDate": "2016-07-30",
       "summary": "Morra is a web & mobile development company, located in Surabaya, Indonesia. We help designers to make their designs come true.",
-      "highlights": "Build mobile native apps using Objective-C and Swift."
+      "highlights": [
+        "Build mobile native apps using Objective-C and Swift."
+      ]
     },
     {
       "company": "Nesiagame",
       "position": "Mobile Developer",
       "website": "http://nesiagame.com",
-      "startDate": "October 2015",
-      "endDate": "February 2016",
+      "startDate": "2015-10-15",
+      "endDate": "2016-05-30",
       "summary": "Nesiagame is a company engaged in the field of online game developers and publishers as well as software integration.",
-      "highlights": "Build mobile and web apps with HTML, CSS, JS, Ionic, AngularJS."
+      "highlights": [
+        "Build mobile and web apps with HTML, CSS, JS, Ionic, AngularJS."
+      ]
     }
   ],
   "education": [
@@ -79,60 +83,101 @@
   ],
   "awards": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
+      "title": "Scholarship Grantee, GPA 4.00",
+      "date": "2014-02-01",
+      "awarder": "STMIK Mikroskil",
+      "summary": "Got a scholarship for 5th-6th semester."
+    },
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "title": "Competition Competence Students, 1st Runner Up",
+      "date": "2010-07-01",
+      "awarder": "Medan Education Office",
+      "summary": "Runner Up for IT Network Support."
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "iOS Development",
+      "level": "Intermediate",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "Objective-C",
+        "Swift",
+        "Cocoa SDK",
+        "Reactive Cocoa",
+        "MVVM",
+        "Core Data",
+        "Debugging",
+        "Git"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Backend Development",
+      "level": "Beginner",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "NodeJs",
+        "Express",
+        "ES2016",
+        "Microservices",
+        "Javascript",
+        "MongoDB",
+        "Mocha",
+        "Debugging",
+        "Shell",
+        "Git"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "JQuery",
+        "Ionic",
+        "AngularJS",
+        "React-Native"
       ]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Bahasa",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Software Development",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Problem Solving",
+        "Performance Optimisation",
+        "Reusable Component",
+        "Functional Programming",
+        "Open Source Project",
+        "Frameworks"
+      ]
+    },
+    {
+      "name": "Software Management",
+      "keywords": [
+        "Scrum Management",
+        "Agile Development"
       ]
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Ahmad Rizqi Meydiarsio, CTO at YesBoss",
+      "reference": ""
+    },
+    {
+      "name": "Hisma Mulya S, Platform Team Lead at YesBoss",
+      "reference": ""
     }
   ]
 }
