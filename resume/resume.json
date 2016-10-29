@@ -6,7 +6,7 @@
     "email": "managam.silalahi@gmail.com",
     "phone": "(+62) 812 6338 7707",
     "website": "http://managam.github.io",
-    "summary": "Managam is an indie Software Engineer currently focusing on Software Development. I have over 2 years of programming experiences, and is experienced in a wide variety of languages including Swift, Objective-C, NodeJS, Javascript. Specialties: Software Development, iOS Development, Swift, Objective-C, NodeJS, Javascript.",
+    "summary": "Managam is an indie Software Engineer currently focusing on Software Development. He have over 2 years of programming experiences, and is experienced in a wide variety of languages including Swift, Objective-C, NodeJS, Javascript. Specialties: Software Development, iOS Development, Swift, Objective-C, NodeJS, Javascript.",
     "location": {
       "address": "Jl. Pangeran Antasari Gg. Cempaka 3",
       "postalCode": "12150",
@@ -38,14 +38,14 @@
       "position": "Software Engineer",
       "website": "https://yesbossnow.com",
       "startDate": "2016-08-01",
-      "endDate": "2017-08-01",
+      "endDate": "",
       "summary": "YesBoss is your personal virtual assistant for all your demands. YesBoss is an SMS-based personal virtual assistant which eases your daily life and saves your time.",
       "highlights": [
-        "Develop Core Services for YesBoss Technology environment",
+        "Develop Core Services for YesBoss Technology environment using NodeJs, and custom microservices framework based on ExpressJs.",
         "Work together in defining and implementing the best technology stack for our technology development.",
-        "Develop and maintain YesBoss app codebase.",
+        "Develop and maintain YesBoss iOS app codebase using Objective-C.",
         "Write clean and maintainable code.",
-        "Actively participate on features and tools development with design and product team"
+        "Actively participate on features and tools development with design and product team."
       ]
     },
     {
@@ -56,7 +56,7 @@
       "endDate": "2016-07-30",
       "summary": "Morra is a web & mobile development company, located in Surabaya, Indonesia. We help designers to make their designs come true.",
       "highlights": [
-        "Build mobile native apps using Objective-C and Swift."
+        "Develop and maintain Kortlist iOS app codebase using Objective-C."
       ]
     },
     {
@@ -67,7 +67,8 @@
       "endDate": "2016-05-30",
       "summary": "Nesiagame is a company engaged in the field of online game developers and publishers as well as software integration.",
       "highlights": [
-        "Build mobile and web apps with HTML, CSS, JS, Ionic, AngularJS."
+        "Develop nesiagame.com using JQuery and JQuery Mobile.",
+        "Develop POS hybrid app using Ionic and AngularJs."
       ]
     }
   ],
@@ -103,7 +104,7 @@
         "Objective-C",
         "Swift",
         "Cocoa SDK",
-        "Reactive Cocoa",
+        "ReactiveCocoa",
         "MVVM",
         "Core Data",
         "Debugging",
@@ -171,6 +172,11 @@
     }
   ],
   "references": [
-
+    {
+      "name": "Ahmad Rizqi Meydiarso (rizqi[at]yesbossnow[dot]com), CTO at YesBoss."
+    },
+    {
+      "name": "Hisma Mulya (hisma[at]yesbossnow[dot]com), Platform Team Lead at YesBoss."
+    }
   ]
 }
