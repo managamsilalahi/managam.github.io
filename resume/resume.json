@@ -10,7 +10,7 @@
     "location": {
       "address": "Jl. Pangeran Antasari Gg. Cempaka 3",
       "postalCode": "12150",
-      "city": "Jakarta",
+      "city": "South Jakarta",
       "countryCode": "ID",
       "region": "Jakarta, Greater Area"
     },
@@ -38,7 +38,7 @@
       "position": "Software Engineer",
       "website": "https://yesbossnow.com",
       "startDate": "2016-08-01",
-      "endDate": "",
+      "endDate": "2017-08-01",
       "summary": "YesBoss is your personal virtual assistant for all your demands. YesBoss is an SMS-based personal virtual assistant which eases your daily life and saves your time.",
       "highlights": [
         "Develop Core Services for YesBoss Technology environment",
