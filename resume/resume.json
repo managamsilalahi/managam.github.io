@@ -1,21 +1,20 @@
 {
   "basics": {
     "name": "Managam Silalahi",
-    "label": "Software Engineer",
+    "label": "Software Engineer - iOS",
     "picture": "https://avatars1.githubusercontent.com/u/5545565?v=3&s=466",
     "email": "managam.silalahi@gmail.com",
     "phone": "(+62) 812 6338 7707",
     "website": "http://managam.github.io",
-    "summary": "Managam is an indie Software Engineer currently focusing on Software Development. He has over 2 years of programming experiences, and is experienced in a wide variety of languages including Swift, Objective-C, NodeJS, Javascript. Specialties: Software Development, iOS Development, Swift, Objective-C, NodeJS, Javascript.",
+    "summary": "I talented Software Engineer, have over 2 years of programming experiences, and is experienced in a wide variety of languages, managed to learn quickly and did tasks well, especially in enhancing iOS App and fixing bugs. I'm reliable and managed to quickly learn. Summarized, I has a lot potential, is thirsty of knowledge and always curious (in a good way) and also dependable to finish the tasks given to me.",
     "location": {
-      "address": "Jl. Pangeran Antasari Gg. Cempaka 3",
-      "postalCode": "12150",
-      "city": "South Jakarta",
+      "address": "Jalan Kota Bambu Utara V No. 48, RT.07 /RW.5, Kota Bambu Utara, Palmerah",
+      "postalCode": "11420",
+      "city": "West Jakarta",
       "countryCode": "ID",
       "region": "Jakarta, Greater Area"
     },
-    "profiles": [
-      {
+    "profiles": [{
         "network": "GitHub",
         "username": "managam",
         "url": "https://github.com/managam"
@@ -32,25 +31,38 @@
       }
     ]
   },
-  "work": [
+  "work": [{
+      "company": "Kurio",
+      "position": "Software Engineer - iOS",
+      "website": "https://kurio.co.id",
+      "startDate": "2016-12-05",
+      "endDate": "",
+      "summary": "Kurio is a Smart News App. It's a new way to discover, explore, and consume web' best content, curated, filtered, and personalised just for you. We believe no matter what you want to do or become, you can't do it without knowledge.",
+      "highlights": [
+        "Research and development about new technologies, bringing a smart behavior on the app.",
+        "Supporting team in technical difficulties.",
+        "Setting up agile development (Buddybuild) maintain code violence for iOS Team",
+        "Clean code management and github (source control)",
+        "Actively participate on features and tools development with design and product team."
+      ]
+    },
     {
-      "company": "YesBoss",
-      "position": "Software Engineer",
+      "company": "Kata.ai / YesBoss",
+      "position": "Software Engineer - iOS",
       "website": "https://yesbossnow.com",
       "startDate": "2016-08-01",
-      "endDate": "",
+      "endDate": "2016-11-01",
       "summary": "YesBoss is your personal virtual assistant for all your demands. YesBoss is an SMS-based personal virtual assistant which eases your daily life and saves your time.",
       "highlights": [
         "Develop Core Services for YesBoss Technology environment using NodeJs, and custom microservices framework based on ExpressJs.",
         "Work together in defining and implementing the best technology stack for our technology development.",
         "Develop and maintain YesBoss iOS app codebase using Objective-C.",
-        "Write clean and maintainable code.",
-        "Actively participate on features and tools development with design and product team."
+        "Write clean and maintainable code."
       ]
     },
     {
       "company": "Morra",
-      "position": "iOS Developer",
+      "position": "Software Engineer - iOS",
       "website": "http://hellomorra.com/",
       "startDate": "2016-03-21",
       "endDate": "2016-07-30",
@@ -60,30 +72,27 @@
       ]
     },
     {
-      "company": "Nesiagame",
-      "position": "Mobile Developer",
-      "website": "http://nesiagame.com",
+      "company": "PT. Informasi Guna Optima",
+      "position": "Software Engineer",
+      "website": "https://ingo.io",
       "startDate": "2015-10-15",
       "endDate": "2016-05-30",
-      "summary": "Nesiagame is a company engaged in the field of online game developers and publishers as well as software integration.",
+      "summary": "InGo / Nesiagame is a company engaged in the field of online game developers and publishers as well as software integration.",
       "highlights": [
         "Develop nesiagame.com using JQuery and JQuery Mobile.",
         "Develop POS hybrid app using Ionic and AngularJs."
       ]
     }
   ],
-  "education": [
-    {
-      "institution": "STMIK Mikroskil",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2011-09-01",
-      "endDate": "2015-10-01",
-      "gpa": "3.76"
-    }
-  ],
-  "awards": [
-    {
+  "education": [{
+    "institution": "STMIK Mikroskil",
+    "area": "Computer Science",
+    "studyType": "Bachelor",
+    "startDate": "2011-09-01",
+    "endDate": "2015-10-01",
+    "gpa": "3.76"
+  }],
+  "awards": [{
       "title": "Scholarship Grantee, GPA 4.00",
       "date": "2014-02-01",
       "awarder": "STMIK Mikroskil",
@@ -96,53 +105,20 @@
       "summary": "Runner Up for IT Network Support."
     }
   ],
-  "skills": [
-    {
-      "name": "iOS Development",
-      "level": "Intermediate",
-      "keywords": [
-        "Objective-C",
-        "Swift",
-        "Cocoa SDK",
-        "ReactiveCocoa",
-        "MVVM",
-        "Core Data",
-        "Debugging",
-        "Git"
-      ]
-    },
-    {
-      "name": "Backend Development",
-      "level": "Beginner",
-      "keywords": [
-        "NodeJs",
-        "ExpressJs",
-        "ES2016",
-        "Microservices",
-        "Javascript",
-        "MongoDB",
-        "Mocha",
-        "Debugging",
-        "Shell",
-        "Git"
-      ]
-    },
-    {
-      "name": "Frontend Development",
-      "level": "Intermediate",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "JQuery",
-        "Ionic",
-        "AngularJ",
-        "React-Native"
-      ]
-    }
-  ],
-  "languages": [
-    {
+  "skills": [{
+    "name": "iOS Development",
+    "level": "Intermediate",
+    "keywords": [
+      "Swift",
+      "Objective-C",
+      "Cocoa SDK",
+      "Architectural Pattern (MVC, MVVM, VIPER, and CleanSwift)",
+      "Design Patter (Delegate, Singleton, Factory)",
+      "Debugging",
+      "Git"
+    ]
+  }],
+  "languages": [{
       "language": "Bahasa",
       "fluency": "Native speaker"
     },
@@ -151,8 +127,7 @@
       "fluency": "Limited working proficiency"
     }
   ],
-  "interests": [
-    {
+  "interests": [{
       "name": "Software Development",
       "keywords": [
         "Problem Solving",
@@ -171,13 +146,12 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Ahmad Rizqi Meydiarso (rizqi[at]yesbossnow[dot]com), CTO at YesBoss, Kata.ai",
+  "references": [{
+      "name": "Ahmad Rizqi Meydiarso, CTO & Co-Founder at YesBoss / Kata.ai",
       "reference": "I've been working with Managam for several months now, where he joined our team as an iOS developer. He managed to learn quickly and did his tasks well, especially in enhancing our mobile app and fixing bugs. He is reliable and - during our transition to kata.ai - managed to quickly learn the NodeJS environment. Summarized, Managam has a lot potential, is thirsty of knowledge and always curious (in a good way). Keep up and go to the next level!."
     },
     {
-      "name": "Hisma Mulya (hisma[at]yesbossnow[dot]com), Platform Team Lead at YesBoss.",
+      "name": "Hisma Mulya, Senior Software Engieer at Jenius Digital Banking.",
       "reference": "Managam is a talented software engineer, he can learn new things quickly and is shown by his quick switch to Node.js development from iOS. He's also dependable to finish the tasks given to him. Keep up the good work!."
     }
   ]
