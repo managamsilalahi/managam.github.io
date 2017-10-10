@@ -6,15 +6,18 @@
     "email": "managam.silalahi@gmail.com",
     "phone": "(+62) 812 6338 7707",
     "website": "http://managam.github.io",
-    "summary": "I talented Software Engineer, have over 2 years of programming experiences, and is experienced in a wide variety of languages, managed to learn quickly and did tasks well, especially in enhancing iOS App and fixing bugs. I'm reliable and managed to quickly learn. Summarized, I has a lot potential, is thirsty of knowledge and always curious (in a good way) and also dependable to finish the tasks given to me.",
+    "summary":
+      "I talented Software Engineer, have over 2 years of programming experiences, and is experienced in a wide variety of languages, managed to learn quickly and did tasks well, especially in enhancing iOS App and fixing bugs. I'm reliable and managed to quickly learn. Summarized, I has a lot potential, is thirsty of knowledge and always curious (in a good way) and also dependable to finish the tasks given to me.",
     "location": {
-      "address": "Jalan Kota Bambu Utara V No. 48, RT.07 /RW.5, Kota Bambu Utara, Palmerah",
+      "address":
+        "Jalan Kota Bambu Utara V No. 48, RT.07 /RW.5, Kota Bambu Utara, Palmerah",
       "postalCode": "11420",
       "city": "West Jakarta",
       "countryCode": "ID",
       "region": "Jakarta, Greater Area"
     },
-    "profiles": [{
+    "profiles": [
+      {
         "network": "GitHub",
         "username": "managam",
         "url": "https://github.com/managam"
@@ -31,12 +34,14 @@
       }
     ]
   },
-  "work": [{
+  "work": [
+    {
       "company": "Kurio",
       "position": "Software Engineer - iOS",
       "website": "https://kurio.co.id",
       "startDate": "2016-12-05",
-      "summary": "Kurio is a Smart News App. It's a new way to discover, explore, and consume web' best content, curated, filtered, and personalised just for you. We believe no matter what you want to do or become, you can't do it without knowledge.",
+      "summary":
+        "Kurio is a Smart News App. It's a new way to discover, explore, and consume web' best content, curated, filtered, and personalised just for you. We believe no matter what you want to do or become, you can't do it without knowledge.",
       "highlights": [
         "Research and development about new technologies, bringing a smart behavior on the app.",
         "Supporting team in technical difficulties.",
@@ -51,7 +56,8 @@
       "website": "https://yesbossnow.com",
       "startDate": "2016-08-01",
       "endDate": "2016-11-01",
-      "summary": "YesBoss is your personal virtual assistant for all your demands. YesBoss is an SMS-based personal virtual assistant which eases your daily life and saves your time.",
+      "summary":
+        "YesBoss is your personal virtual assistant for all your demands. YesBoss is an SMS-based personal virtual assistant which eases your daily life and saves your time.",
       "highlights": [
         "Develop Core Services for YesBoss Technology environment using NodeJs, and custom microservices framework based on ExpressJs.",
         "Work together in defining and implementing the best technology stack for our technology development.",
@@ -65,7 +71,8 @@
       "website": "http://hellomorra.com/",
       "startDate": "2016-03-21",
       "endDate": "2016-07-30",
-      "summary": "Morra is a web & mobile development company, located in Surabaya, Indonesia. We help designers to make their designs come true.",
+      "summary":
+        "Morra is a web & mobile development company, located in Surabaya, Indonesia. We help designers to make their designs come true.",
       "highlights": [
         "Develop and maintain Kortlist iOS app codebase using Objective-C."
       ]
@@ -76,22 +83,26 @@
       "website": "https://ingo.io",
       "startDate": "2015-10-15",
       "endDate": "2016-05-30",
-      "summary": "InGo / Nesiagame is a company engaged in the field of online game developers and publishers as well as software integration.",
+      "summary":
+        "InGo / Nesiagame is a company engaged in the field of online game developers and publishers as well as software integration.",
       "highlights": [
         "Develop nesiagame.com using JQuery and JQuery Mobile.",
         "Develop POS hybrid app using Ionic and AngularJs."
       ]
     }
   ],
-  "education": [{
-    "institution": "STMIK Mikroskil",
-    "area": "Computer Science",
-    "studyType": "Bachelor",
-    "startDate": "2011-09-01",
-    "endDate": "2015-10-01",
-    "gpa": "3.76"
-  }],
-  "awards": [{
+  "education": [
+    {
+      "institution": "STMIK Mikroskil",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2011-09-01",
+      "endDate": "2015-10-01",
+      "gpa": "3.76"
+    }
+  ],
+  "awards": [
+    {
       "title": "Scholarship Grantee, GPA 4.00",
       "date": "2014-02-01",
       "awarder": "STMIK Mikroskil",
@@ -104,20 +115,23 @@
       "summary": "Runner Up for IT Network Support."
     }
   ],
-  "skills": [{
-    "name": "iOS Development",
-    "level": "Intermediate",
-    "keywords": [
-      "Swift",
-      "Objective-C",
-      "Cocoa SDK",
-      "Architectural Pattern (MVC, MVVM, VIPER, and CleanSwift)",
-      "Design Patter (Delegate, Singleton, Factory)",
-      "Debugging",
-      "Git"
-    ]
-  }],
-  "languages": [{
+  "skills": [
+    {
+      "name": "iOS Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Swift",
+        "Objective-C",
+        "Cocoa SDK",
+        "Architectural Pattern (MVC, MVVM, VIPER, and CleanSwift)",
+        "Design Pattern (Delegate, Singleton, Factory)",
+        "Debugging",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
       "language": "Bahasa",
       "fluency": "Native speaker"
     },
@@ -126,7 +140,8 @@
       "fluency": "Limited working proficiency"
     }
   ],
-  "interests": [{
+  "interests": [
+    {
       "name": "Software Development",
       "keywords": [
         "Problem Solving",
@@ -139,19 +154,19 @@
     },
     {
       "name": "Software Management",
-      "keywords": [
-        "Scrum Management",
-        "Agile Development"
-      ]
+      "keywords": ["Scrum Management", "Agile Development"]
     }
   ],
-  "references": [{
+  "references": [
+    {
       "name": "Ahmad Rizqi Meydiarso, CTO & Co-Founder at YesBoss / Kata.ai",
-      "reference": "I've been working with Managam for several months now, where he joined our team as an iOS developer. He managed to learn quickly and did his tasks well, especially in enhancing our mobile app and fixing bugs. He is reliable and - during our transition to kata.ai - managed to quickly learn the NodeJS environment. Summarized, Managam has a lot potential, is thirsty of knowledge and always curious (in a good way). Keep up and go to the next level!."
+      "reference":
+        "I've been working with Managam for several months now, where he joined our team as an iOS developer. He managed to learn quickly and did his tasks well, especially in enhancing our mobile app and fixing bugs. He is reliable and - during our transition to kata.ai - managed to quickly learn the NodeJS environment. Summarized, Managam has a lot potential, is thirsty of knowledge and always curious (in a good way). Keep up and go to the next level!."
     },
     {
       "name": "Hisma Mulya, Senior Software Engieer at Jenius Digital Banking.",
-      "reference": "Managam is a talented software engineer, he can learn new things quickly and is shown by his quick switch to Node.js development from iOS. He's also dependable to finish the tasks given to him. Keep up the good work!."
+      "reference":
+        "Managam is a talented software engineer, he can learn new things quickly and is shown by his quick switch to Node.js development from iOS. He's also dependable to finish the tasks given to him. Keep up the good work!."
     }
   ]
 }
